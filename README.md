@@ -13,4 +13,6 @@ Baseado no modelo criado pelo professor Carlos Melo, originalmente utilizando a 
 desenvolvi este pequeno projeto a partir dos dados da cidade de Chicago, a qual me é querida por ter morado lá no 
 período de 2013 e 2014.
 
+Portanto, para analisar o Jupyter Notebook criado, basta acessar o link [.](https://github.com/rfernand3s/Airbnb_Chicago_Analise_dos_dados/blob/master/Airbnb_Chicago.ipynb)
+
 
