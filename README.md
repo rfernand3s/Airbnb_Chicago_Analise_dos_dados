@@ -18,5 +18,13 @@ Portanto, para analisar o Jupyter Notebook criado, basta acessar o link [Airbnb_
 Um dos resultados obtidos foram esses, que mostramos relações de preços por diárias, número mínimo de noites,
 número de reviews, etc.
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/45701541/86183778-264e8000-bb09-11ea-9212-173baa91e4fc.png"> 
+</p>
+
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/45701541/86183835-40885e00-bb09-11ea-8ec5-d8052b314784.png"> 
+</p>
 
 
