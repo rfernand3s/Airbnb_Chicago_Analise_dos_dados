@@ -15,6 +15,13 @@ período de 2013 e 2014.
 
 Portanto, para analisar o Jupyter Notebook criado, basta acessar o link [Airbnb_Chicago.ipynb](https://github.com/rfernand3s/Airbnb_Chicago_Analise_dos_dados/blob/master/Airbnb_Chicago.ipynb).
 
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/45701541/86412865-3a73b800-bc96-11ea-81c5-8d46fb2c89e0.png" >
+</p>
+
+
+
 Um dos resultados obtidos foram esses, que mostramos relações de preços por diárias, número mínimo de noites,
 número de reviews, etc.
 
