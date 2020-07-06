@@ -17,7 +17,7 @@ Portanto, para analisar o Jupyter Notebook criado, basta acessar o link [Airbnb_
 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/45701541/86412865-3a73b800-bc96-11ea-81c5-8d46fb2c89e0.png" >
+  <img src="https://user-images.githubusercontent.com/45701541/86412743-00a2b180-bc96-11ea-914e-57e176bdc71e.png" >
 </p>
 
 
