@@ -27,16 +27,24 @@ Para analisar o Jupyter Notebook criado, basta ir à opção na parte superior d
 Um dos resultados obtidos foram esses, que mostramos relações de preços por diárias, número mínimo de noites,
 número de reviews, etc.
 
+
+Com os graficos abaixo podemos ver, por exemplo, que o preço das diárias em sua maioria, é inferior a 200 dólares, e que apenas uma 
+parcela pequena de locais cobram mil dólares a noite. Da mesma forma, o número mínimo de noites de cada local a ser alugado
+em geral é de uma a cinco noites, o que é bastante adequado para pessoas que só querem passar um feriado pequeno na cidade, ou 
+mesmo uma semana de férias.
+
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/45701541/86183778-264e8000-bb09-11ea-9212-173baa91e4fc.png"> 
+  <img src="https://user-images.githubusercontent.com/45701541/86656704-09f58c00-bfbe-11ea-93f3-b6d49de3e9f7.png"> 
 </p>
 
 
 
+Neste último gráfico temos uma visão de como se distribuem os preços das diárias de acordo com a localidade em Chicago.
+Confirmamos novamente que a maioria dos quartos ou apartamentos tem custo de até duzentos dólares por noite.
 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/45701541/86183835-40885e00-bb09-11ea-8ec5-d8052b314784.png"> 
+  <img src="https://user-images.githubusercontent.com/45701541/86656772-18dc3e80-bfbe-11ea-844f-bf524e08417e.png"> 
 </p>
 
 
