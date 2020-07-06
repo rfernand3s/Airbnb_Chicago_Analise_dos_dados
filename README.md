@@ -10,10 +10,14 @@
 Este é um projeto referente a conclusão do Módulo I do curso "Data Science na Prática", da plataforma sigmoidal.ai
 
 Baseado no modelo criado pelo professor Carlos Melo, originalmente utilizando a cidade do Rio de Janeiro como exemplo,
-desenvolvi este pequeno projeto a partir dos dados da cidade de Chicago, a qual me é querida por ter morado lá no 
+desenvolvi este pequeno projeto a partir dos dados da cidade de **Chicago**, a qual tenho muito apreço por ter morado lá no 
 período de 2013 e 2014.
 
-Portanto, para analisar o Jupyter Notebook criado, basta acessar o link [Airbnb_Chicago.ipynb](https://github.com/rfernand3s/Airbnb_Chicago_Analise_dos_dados/blob/master/Airbnb_Chicago.ipynb).
+
+Se quiser conhecer mais sobre **Chicago**, também conhecida como _'The Windy City'_, uma das maiores e mais incríveis cidades dos EUA, acesse o link [Conheça Chicago em 5 dias](https://www.jpwturismo.com.br/conheca-chicago-em-5-dias/) e veja alguns de seus principais pontos turísticos.
+
+
+Para analisar o Jupyter Notebook criado, basta acessar o link [Airbnb_Chicago.ipynb](https://github.com/rfernand3s/Airbnb_Chicago_Analise_dos_dados/blob/master/Airbnb_Chicago.ipynb).
 
 
 <p align="center">
