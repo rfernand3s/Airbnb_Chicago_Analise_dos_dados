@@ -20,8 +20,7 @@ Se quiser conhecer mais sobre Chicago, popularmente chamada _'The Windy City'_, 
 </p>
 
 
-Para analisar o Jupyter Notebook criado, basta acessar o link [Airbnb_Chicago.ipynb](https://github.com/rfernand3s/Airbnb_Chicago_Analise_dos_dados/blob/master/Airbnb_Chicago.ipynb) e tenha acesso
-por completo à análise feita sobre os dados do Airbnb.
+Para analisar o Jupyter Notebook criado, basta ir à opção na parte superior deste repositório com o arquivo `.ipynb` ou clicar [aqui](https://github.com/rfernand3s/Airbnb_Chicago_Analise_dos_dados/blob/master/Airbnb_Chicago.ipynb) 
 
 
 
