@@ -48,3 +48,6 @@ Confirmamos novamente que a maioria dos quartos ou apartamentos tem custo de at�
 </p>
 
 
+**Conclusões**
+
+Este trabalho refere-se ao primeiro projeto realizado no curso 'Data Science na Pratica', e tem como um dos objetivos fornecer um primeiro contato com a análise de dados a partir de um dataset real. Mesmo com essa análise superficial, utilizando um dataset pequeno(o site Airbnb disponibiliza outros mais complexos e com muito mais dados, mas não eram adequados para este momento inicial), podemos perceber a exitência de outliers em algumas variáveis e como eles podem influenciar nos resultados. Vimos também que a análise não pode consistir somente da utilização dos métodos da linguagem Python, pois também é necessário interpretar os resultados a fim de extrair informações cada vez mais úteis e verossímeis.
